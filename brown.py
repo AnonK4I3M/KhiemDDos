@@ -1,4 +1,4 @@
-﻿# Python code obfuscated by abuse 1337
+﻿# Python code obfuscated by Nguyễn Hùng Khiêm 
  
 
 import base64, codecs
