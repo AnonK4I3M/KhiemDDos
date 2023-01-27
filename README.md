@@ -1,10 +1,8 @@
 # 🚀 Brown- Free DDoS Panel 🚀
 > Your terminal has to accept ANSI colors so that the colors can be seen<br>
-> Username: 1337<br>
-> Password: 1337<br>
 
 proxy update command proxy-crawl
-telegram: mertsoyan
+Zalo :0868748163
 
 
 # Tree
