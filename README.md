@@ -1,7 +1,6 @@
-# 🚀 Brown- Free DDoS Panel 🚀
+# 🚀 Tấn Công Từ Chối Dịch Vụ C2 🚀
 > Your terminal has to accept ANSI colors so that the colors can be seen<br>
 
-proxy update command proxy-crawl
 Zalo :0868748163
 
 
@@ -12,22 +11,14 @@ Zalo :0868748163
 * [Credits](#Credits)
 * [T.O.S](#TOS)
 
-# Plz ♥️
+# Lưu Ý
 It would help me a lot if you give a star ⭐ to this repository.<br>
 One star from you = more desire to continue updating Brown
 
-# BrownC2 Info
-- [x] Open Source
-- [x] Stable
-- [x] Simple
-- [x] Methods for Layer 4 and 7
-- [x] Bypass (CF, OVH, Etc)  
-- The source is not mine, I just made a few additions, the original owner of the source SkyWtkh
-
-# Setup
+# Cách Sử Dụng
 ```sh
 git clone https://github.com/banhtrungthudauxanh/brownc2
-cd Stanley
+cd brownc2
 sudo python3 installer.py
 ulimit -n 999999
 chmod +x *
