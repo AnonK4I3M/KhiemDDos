@@ -1,7 +1,7 @@
 import os
 
 print("""
-discord weird#1337
+Zalo:0868748163
 """)
 
 print("""[1] pip\n[2] pip3\nWhich one do you use?""")
