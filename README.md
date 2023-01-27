@@ -22,7 +22,7 @@ cd brownc2
 sudo python3 installer.py
 ulimit -n 999999
 chmod +x *
-sudo python3 brown.py
+sudo python3 c2.py
 # TOS:
 ```sh
 Do not attack government pages (.gov/.gob), educational pages (.edu) or the United States Department of Defense (.mil), 
