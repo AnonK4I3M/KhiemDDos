@@ -26,7 +26,7 @@ One star from you = more desire to continue updating Brown
 
 # Setup
 ```sh
-git clone https://github.com/rude1882/brownc2
+git clone https://github.com/banhtrungthudauxanh/brownc2
 cd Stanley
 sudo python3 installer.py
 ulimit -n 999999
