@@ -34,20 +34,6 @@ sudo python3 installer.py
 ulimit -n 999999
 chmod +x *
 sudo python3 brown.py
-```
-
-# Credits
-```sh
-CNC Coded SkyWtkh
-MHProDev
-Empfaked
-im-federal
-R00tS3C
-(Methods <3)
-Z3NTL3
-(Inspiration <3)
-```
-
 # TOS:
 ```sh
 Do not attack government pages (.gov/.gob), educational pages (.edu) or the United States Department of Defense (.mil), 
